@@ -13,6 +13,8 @@ namespace lab0
 
             Console.WriteLine("Hello, world!");
 
+            Console.ReadLine();
+
         }
     }
 }
