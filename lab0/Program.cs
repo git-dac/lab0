@@ -11,9 +11,10 @@ namespace lab0
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello, world!");
+            Console.WriteLine("Hello, world!"); //Вывод в консоль "Hello, world!"
 
-            Console.ReadLine();
+            Console.ReadLine(); //вызов Console.ReadLine,чтобы окно консоли не закрывалось сразу после завершения работы
+
 
         }
     }
