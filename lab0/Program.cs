@@ -16,3 +16,5 @@ namespace lab0
         }
     }
 }
+namespace lab1 { 
+}
